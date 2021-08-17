@@ -1,3 +1,5 @@
-# minecraft mod dev (eh sorta)
-## currently working on unity and c# programs
-### mostly java
+# game dev in progress
+## currently working on pygame
+### mostly java and C#
+#### occasional python
+### some html 
