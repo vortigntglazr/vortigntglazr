@@ -1,5 +1,8 @@
-# game dev in progress
-## currently working on pygame
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MCHSoda&show_icons=true&count_private=true&show_icons=true&theme=nord"/>
+</p>  
+
+## currently working on rust
 ### mostly java and C#
 #### occasional python
 ### some html 
