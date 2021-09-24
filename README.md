@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MCHSoda&show_icons=true&count_private=true&show_icons=true&theme=nord"/>
-</p>  
+![MCHSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCHSoda&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCHSoda&hide=css,scss&theme=nord)]
 
 #### Rust and C# user
 #### Incredibly bad code
