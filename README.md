@@ -1,5 +1,5 @@
 ![MCHSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCHSoda&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCHSoda&hide=css,scss&theme=nord)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCHSoda&hide=css,scss&theme=nord)
 
 #### Rust and C# user
 #### Incredibly bad code
