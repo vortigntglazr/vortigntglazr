@@ -1,7 +1,7 @@
 # professional nincompoop
 
-![MCHSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCHSoda&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCHSoda&hide=css,scss&theme=synthwave)
+![vortigntglazr's GitHub stats](https://github-readme-stats.vercel.app/api?username=vortigntglazr&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vortigntglazr&hide=css,scss&theme=synthwave)
 
 
 
